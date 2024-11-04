@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waveing&color=auto&height=300&section=header&text=MAIJEUN%20Github&fontSize=90" />
-</div>
+<p align="center">
+   <img align = "center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=330&section=header&text=MAIJEUN&fontSize=90&animation=fadeIn&fontAlignY=38 />
+</p>
 
 <!--
 **MAIJEUN/MAIJEUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
