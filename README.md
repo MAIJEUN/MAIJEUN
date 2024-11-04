@@ -6,11 +6,10 @@
 
 <h3 align="center">MAIJSOFT Dev Github</h3>
 
-<p align="center">About MAIJSOFT
-주로 Scratch에서 활동중인 MAIJSOFT입니다.
-MAIJEUN이 모두 담당하고 있습니다.
-OS나 마인크래프트 플러그인을 만들고 있습니다.
-</p>
+<h3 align="center">About MAIJSOFT</h3>
+
+<p align="center">주로 Scratch에서 활동중인 MAIJSOFT입니다.</p>
+<p align="center">OS나 마인크래프트 플러그인을 만들고 있습니다.</p>
 
 ### Social
 > <a href="https://www.youtube.com/@마이즌"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
