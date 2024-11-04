@@ -7,8 +7,8 @@
 ## MAIJSOFT Dev Github
 
 ### About **MAIJSOFT**
-**Sc**에서 활동중인 **MAIJSOFT**입니다
-OS나 마인크래프트 플러그인을 주로 만들고 있습니다
+*주로* **Scratch**에서 활동중인 **MAIJSOFT**입니다.
+OS나 마인크래프트 플러그인을 만들고 있습니다.
 <br/>
 
 ### Social
