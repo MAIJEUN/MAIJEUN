@@ -4,7 +4,7 @@
 </p>
 <br/>
 
-<h3 align="center">MAIJSOFT Dev Github</h3>
+<h1 align="center">MAIJSOFT Dev Github</h1>
 
 <h3 align="center">About MAIJSOFT</h3>
 
