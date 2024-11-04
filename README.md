@@ -8,7 +8,7 @@
 
 <h3 align="center">About MAIJSOFT</h3>
 
-<p align="center">주로 Scratch에서 활동중인 MAIJSOFT입니다.</p>
+<p align="center">Scratch에서 활동중인 MAIJSOFT입니다.</p>
 <p align="center">OS나 마인크래프트 플러그인을 만들고 있습니다.</p>
 
 ### Social
