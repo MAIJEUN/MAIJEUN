@@ -1,6 +1,6 @@
 <p align="center">
    <!--https://github.com/kyechan99/capsule-render-->
-   <img align = "center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=1fb8ff&text=MAIJSOFT%20Dev&fontColor=ffffff&fontAlignY=45&strokeWidth=4&stroke=ffffff&animation=twinkling&section=header" />
+   <img align = "center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8adaff&text=MAIJSOFT%20Dev&fontColor=ffffff&fontAlignY=45&strokeWidth=4&stroke=ffffff&animation=twinkling&section=header" />
 </p>
 
 
