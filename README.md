@@ -1,5 +1,6 @@
 <p align="center">
-   <img align = "center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=330&section=header&text=MAIJEUN&fontSize=90&animation=fadeIn&fontAlignY=38 />
+   <!--https://github.com/kyechan99/capsule-render-->
+   <img align = "center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=330&section=header&text=MAIJEUN&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Anything&descAlignY=60" />
 </p>
 
 
