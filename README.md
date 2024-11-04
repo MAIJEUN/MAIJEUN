@@ -2,8 +2,13 @@
    <!--https://github.com/kyechan99/capsule-render-->
    <img align = "center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8adaff&text=MAIJSOFT%20Dev&fontColor=ffffff&fontAlignY=45&strokeWidth=4&stroke=ffffff&animation=twinkling&section=header" />
 </p>
+<br/>
 
+## MAIJSOFT Dev Github
 
+### About **MAIJSOFT**
+**Sc**에서 활동중인 **MAIJSOFT**입니다
+OS나 마인크래프트 플러그인을 주로 만들고 있습니다
 <br/>
 
 ### Social
