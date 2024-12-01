@@ -15,3 +15,22 @@
 > <a href="https://www.youtube.com/@마이즌"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 > <a href="https://discord.com/invite/ZyDf6RJrVu"><img src = "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <br/>
+
+##### MAIJSOFT가 배포하는 모든 소스코드는 GNU General Public License v3.0 라이센스를 부여받습니다.
+######
+```
+Copyright (C) 2024 MAIJSOFT Dev
+ 
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <http://www.gnu.org/licenses/>
+```
