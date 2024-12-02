@@ -16,6 +16,11 @@
 > <a href="https://discord.com/invite/ZyDf6RJrVu"><img src = "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <br/>
 
+
+### Github Stats
+
+![MAIJSOFT's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAIJEUN&show_icons=true&theme=dark)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAIJEUN&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+
 ##### MAIJSOFT가 배포하는 모든 소스코드는 GNU General Public License v3.0 라이센스를 부여받습니다.
 ######
 ```
