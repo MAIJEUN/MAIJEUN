@@ -24,7 +24,7 @@
 ##### MAIJSOFT가 배포하는 모든 소스코드는 GNU General Public License v3.0 라이센스를 부여받습니다.
 ######
 ```
-Copyright (C) 2024 MAIJSOFT Dev
+Copyright (C) 2025 MAIJSOFT Dev
  
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
