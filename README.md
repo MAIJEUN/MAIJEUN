@@ -1,8 +1,8 @@
 <p align="center">
    <!--https://github.com/kyechan99/capsule-render-->
-   <img align = "center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8adaff&text=MAIJSOFT%20Dev&fontColor=ffffff&fontAlignY=45&strokeWidth=4&stroke=ffffff&animation=twinkling&section=header" />
+   <img align = "center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8adaff&text=MAIJEUN&fontColor=ffffff&fontAlignY=45&strokeWidth=4&stroke=ffffff&animation=twinkling&section=header" />
 </p>
-<h1 align="center">안녕하세요! 👋 MAIJSOFT입니다.</h1>
+<h1 align="center">안녕하세요! 👋 MAIJEUN입니다.</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F55C51&center=true&vCenter=true&width=500&lines=🚀+새로운+것을+시도하는+개발자!;🎮+마인크래프트+플러그인+개발+중;🤖+디스코드+봇+개발+중;🌎+웹+개발+및+다양한+실험!" alt="Typing SVG">
