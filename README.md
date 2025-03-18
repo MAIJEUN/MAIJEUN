@@ -15,28 +15,6 @@
 > **"새로운 기술을 실험하고 배우는 것을 좋아합니다!"**  
 > **"마인크래프트 플러그인부터 웹 개발까지 다양한 프로젝트를 진행 중!"**  
 
-- 🎮 **마인크래프트 플러그인 및 디스코드 봇 개발자**  
-- 💻 **Next.js, MongoDB 등 웹 기술 탐구 중**  
-- 🔥 **새로운 아이디어를 실현하는 것이 즐겁습니다!**  
-
----
-
-## 🛠️ 기술 스택  
-📌 **언어**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-📌 **프레임워크 & 라이브러리**  
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-7289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-📌 **데이터베이스**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 ---
 
 ## 📌 주요 프로젝트  
