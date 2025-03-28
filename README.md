@@ -20,6 +20,7 @@
 ## 📌 주요 프로젝트  
 ### 🏗️ 마인크래프트 플러그인  
 🔹 **[NOAFK](https://github.com/MAIJEUN/NOAFK)** - AFK를 막는 플러그인
+🔹 **[SimpleCam](https://github.com/MAIJEUN/SimpleCam)** - 간단한 카메라 플러그인
 
 ---
 
