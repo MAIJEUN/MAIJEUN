@@ -22,6 +22,9 @@
 🔹 **[NOAFK](https://github.com/MAIJEUN/NOAFK)** - AFK를 막는 플러그인
 🔹 **[SimpleCam](https://github.com/MAIJEUN/SimpleCam)** - 간단한 카메라 플러그인
 
+### 🛜 웹사이트
+🔹 **[ADOMODS](https://github.com/MAIJEUN/ADOMODS)** - ADOFAI.gg에 등록되어있는 모드 다운로드 사이트
+
 ---
 
 ## 📊 GitHub 통계  
@@ -42,7 +45,7 @@
   <a href="https://discord.com/users/maijeun">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="https://maijsoft.neocities.org/">
+  <a href="https://adomods.kro.kr/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=web&logoColor=white">
   </a>
 </p>
