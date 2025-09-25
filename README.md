@@ -2,11 +2,11 @@
    <!--https://github.com/kyechan99/capsule-render-->
    <img align = "center" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8adaff&text=MAIJEUN&fontColor=ffffff&fontAlignY=45&strokeWidth=4&stroke=ffffff&animation=twinkling&section=header" />
 </p>
-<h1 align="center">MAIJEUN입니다</h1>
+<h1 align="center">유튜버 MAIJEUN 입니다</h1>
 
 ---
 
-> **"바이브 코딩러 입니다. 아직 Python 기본 문법밖에 몰라요잉.."**
+> **바이브 코딩러 입니다. 아직 Python 기본 문법밖에 몰라요잉..**
 
 ---
 
