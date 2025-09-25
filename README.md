@@ -12,7 +12,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAIJEUN&layout=compact&theme=radical" alt="Most Used Languages">
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=MAIJEUN&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAIJEUN&theme=redical" alt="GitHub Activity Graph">
