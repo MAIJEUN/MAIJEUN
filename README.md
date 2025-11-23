@@ -1,5 +1,5 @@
 # 마이즌 MAIJEUN
-<img src = "Group 2 (2).png" width="75%" height="75%">
+<img src = "모음.png" width="75%" height="75%">
 
 ---
 
