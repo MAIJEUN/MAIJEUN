@@ -2,24 +2,13 @@
 <img src = "모음.png" width="75%" height="75%">
 
 ---
-<!-- 뭘봐 >:( -->
-> [!NOTE]
-> 잘생김
-<!-- 뭘봐 >:( -->
-> [!TIP]
-> 멋짐
-<!-- 뭘봐 >:( -->
-> [!IMPORTANT]
-> 똑똑함
-<!-- 뭘봐 >:( -->
-> [!WARNING]
-> 키가 큼
-<!-- 뭘봐 >:( -->
-> [!CAUTION]
-> 힘이 쎔
-<!-- 뭘봐 >:( -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,github,pr,ps,figma," />
+  </a>
+</p>
 
-취미로 바이브 코딩하는 **마이즌** 이라고 합니다. 잘 부탁 드립니다.
+**마이즌** 이라고 합니다. 잘 부탁 드립니다.
 
 **Contact**
 
