@@ -1,13 +1,16 @@
 # 마이즌 MAIJEUN
-<img src = "모음.png" width="75%" height="75%">
+<p align="center">
+  <img src = "모음.png" width="75%" height="75%">
+</p>
 
 ---
+<!-- 뭘봐 >:( -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,github,pr,ps,figma," />
   </a>
 </p>
-
+<!-- 뭘봐 >:( -->
 **마이즌** 이라고 합니다. 잘 부탁 드립니다.
 
 **Contact**
