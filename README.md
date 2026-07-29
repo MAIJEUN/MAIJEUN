@@ -11,7 +11,7 @@
     <img src="https://skillicons.dev/icons?i=discord,github,pr,ps,figma" />
   </a>
 </p>
-**마이즌**이라고 합니다. 잘 부탁드립니다.
+<b>마이즌</b>이라고 합니다. 잘 부탁드립니다.
 
 **Contact**
 
