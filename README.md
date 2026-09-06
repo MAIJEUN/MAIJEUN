@@ -11,7 +11,7 @@
     <img src="https://skillicons.dev/icons?i=discord,github,pr,ps,figma" />
   </a>
 </p>
-<b>마이즌</b>이라고 합니다. 잘 부탁드립니다.
+개발은 못하지만 편집 & UI/UX 디자인 & 로고 디자인 & 피드백은 할 줄 아는 <b>마이즌</b>이라고 합니다.
 
 **Contact**
 
